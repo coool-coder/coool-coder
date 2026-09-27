@@ -242,40 +242,6 @@ I enjoy sharing practical things I learn while developing:
 
 ---
 
-## 📈 My Learning Journey
-
-```text
-Java
- ↓
-Object-Oriented Programming
- ↓
-Collections & JDBC
- ↓
-SQL & Databases
- ↓
-Hibernate / JPA
- ↓
-Spring MVC
- ↓
-Spring Boot
- ↓
-Spring Security
- ↓
-REST APIs
- ↓
-React
- ↓
-TypeScript
- ↓
-Modern Frontend Development
- ↓
-AI Integration
- ↓
-AI-Powered Web Applications
-```
-
----
-
 ## 🌱 Always Learning
 
 Technology changes quickly.
