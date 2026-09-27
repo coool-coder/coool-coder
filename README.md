@@ -1,21 +1,3 @@
-Yes. The important distinction is that you want **raw GitHub-flavored Markdown**, not a writing block or Markdown displayed inside a code block.
-
-For a GitHub profile README, the file should be named exactly:
-
-```text
-README.md
-```
-
-and placed in a **public repository whose name is exactly your GitHub username**:
-
-```text
-Shukrullahshirzad/README.md
-```
-
-GitHub will then render it automatically on your profile just like a repository README.
-
-Here is the actual content to put inside `README.md`:
-
 # 👋 Hi, I'm Shukrullah Shirzad
 
 ### 💻 Web Developer | Java • Spring Boot • React • TypeScript
