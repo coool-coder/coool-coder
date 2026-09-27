@@ -258,9 +258,6 @@ I'm continuously learning, experimenting, building projects, and looking for bet
   <a href="https://github.com/Shukrullahshirzad">
     <img src="https://img.shields.io/badge/GitHub-Shukrullahshirzad-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/shukrullahshirzad/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shukrullah_Shirzad-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
   <a href="https://x.com/cooolcoder">
     <img src="https://img.shields.io/badge/X-@cooolcoder-000000?style=for-the-badge&logo=x" alt="X" />
   </a>
